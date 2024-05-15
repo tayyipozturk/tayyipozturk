@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tayyip</h1>
-&#128421; Senior year computer engineering student at METU
+&#128421; Software Engineer at Turkish Aerospace Industries
 
 <!--Topics I am interested in-->
 <h3 align="left">Topics I am interested in:</h3>
-<t align="left">- Distributed Systems <br> - IoT <br> - Data and Network Security <br> - Cryptology</h4>
+<t align="left">- Software Engineering <br> - IoT <br> - Machine Learning <br> - Big Data</h4>
 
 <h3> My Website </h3>
 
